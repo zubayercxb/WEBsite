@@ -1,0 +1,37 @@
+
+h3{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 25%;
+    font-size: larger;
+    margin-left: 35%;
+    text-align: justify;}   
+
+
+#wc1{
+
+    color: aliceblue;
+    background-color: red;
+    width: 23%;}
+
+.p1{
+    color: black;
+    text-align: justify;
+    width: 25%;}
+
+.br{
+    color: white;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 5%;
+    height: 5%;
+    border-radius: 15px;}
+
+.bw{
+    color: white;
+    background-color: black;
+    width: 5%;
+    margin-left: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 5%;
+    border-radius: 15px;}                
